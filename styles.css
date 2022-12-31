@@ -45,7 +45,7 @@ main {
     border: 10px solid hsl(0 0% 100%);
     border-radius: 30px;
     background-color: hsl(0 0% 100%);
-    box-shadow: 0 0 2rem hsl(218, 10%, 20%);
+    box-shadow: 0 0 3rem hsl(218, 30%, 80%);
 }
 
 h1, p {
